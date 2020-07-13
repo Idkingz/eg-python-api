@@ -1,0 +1,12 @@
+[
+  {
+    "id": 0,
+    "simple": "simple text",
+    "complex": {
+      "property": "simple property",
+      "complex-property": [
+        "first", "second"
+      ]
+    }
+  }
+]
