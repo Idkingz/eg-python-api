@@ -15,5 +15,9 @@ Install Flaks:
 To run:
 ```export FLASK_APP=index.py```
 
+## TODO List:
+- Dependecy Injection: https://www.geeksforgeeks.org/currying-function-in-python/
+- Unit Test: https://docs.python-guide.org/writing/tests/
+
 ## References:
 https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
